@@ -30,9 +30,16 @@ a{
 }
 
 /* Main section */
-.content>p{
+.content{
    text-align: center; 
-   font-size: 50px; 
+}
+
+img{
+    width: 200px;
+}
+
+p{
+    font-size: 20px; 
 }
 
 /* Footer */
